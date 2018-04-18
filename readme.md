@@ -57,3 +57,6 @@ Leggete le opzioni in fondo al immagine. Se usate `ESC` fatte exit
 senza salvare. Se usate `F10` Salvate e fate exit.
 
 ## Installazione
+Adesso fatte riavvia. Questa volta il pc carichera il nuovo Sistema
+Operativo. Adesso basta che proseguite con l'installazione
+seguendo i step che verrano mostrati :)
